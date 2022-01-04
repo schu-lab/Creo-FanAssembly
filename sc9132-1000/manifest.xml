@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--UGC_VERSION = 1024-->
+<XML_DOCUMENT xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <PTC_HEADER>
+        <VENDOR>Parametric Technology Corporation</VENDOR>
+        <PRODUCT>Creo Parametric 3702019224</PRODUCT>
+        <XML_VERSION>1.0</XML_VERSION>
+        <HOST_NAME>DESKTOP-A3TS74K</HOST_NAME>
+        <USER>Simon</USER>
+        <MACHINE_TYPE> AMD64 Family 23 Model 1 Stepping 1  AuthenticAMD  3000 MHz</MACHINE_TYPE>
+    </PTC_HEADER>
+    <zip_manifest_info pointer="TRUE" proe_version="1934" top_model_wname="SC9132-1000.DRW"/>
+</XML_DOCUMENT>
